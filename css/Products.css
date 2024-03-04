@@ -132,7 +132,7 @@ body{
     text-decoration: none;
 }
 
-.vegProducts li .info .infoLeft h6{
+.vegProducts li .info .infoLeft a h6{
     margin-bottom: 12px;
     font-size: 18px;
     font-weight: 500;
@@ -425,7 +425,7 @@ i.fa-heart:hover{
         letter-spacing: 1.4px;
     }
 
-    .vegProducts li .info .infoLeft > h6{
+    .vegProducts li .info .infoLeft a > h6{
         font-size: 16px;
         letter-spacing: 1.6px;
         width: 156px;
