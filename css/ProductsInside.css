@@ -383,6 +383,10 @@ body{
         letter-spacing: 1.6px;
     }
 
+    .numberPrice{
+        margin-top: 24px;
+    }
+
     .numberBtn{
         width: 132px;
         height: 37px;
