@@ -374,6 +374,10 @@ body{
         letter-spacing: 1.4px;
     }
 
+    .numberPrice{
+        margin-top: 24px;
+    }
+
     .number{
         margin-right: 24px;
     }
@@ -381,10 +385,6 @@ body{
     .number > p{
         font-size: 16px;
         letter-spacing: 1.6px;
-    }
-
-    .numberPrice{
-        margin-top: 24px;
     }
 
     .numberBtn{
