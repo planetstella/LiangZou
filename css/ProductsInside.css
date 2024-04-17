@@ -167,15 +167,14 @@ body{
     border-radius: 8px;
     display: block;
     width: 582px;
-    height: 52px;
-    line-height: 52px;
+    height: 64px;
+    line-height: 64px;
 }
 
 .addCartBtn a{
     color: #fff;
     font-size: 24px;
     font-weight: 700;
-    line-height: 1.5;
     letter-spacing: 2.4px;
     text-decoration: none;
 }
@@ -395,8 +394,8 @@ body{
 
     .addCartBtn{
         width: 332px;
-        height: 32px;
-        line-height: 32px;
+        height: 48px;
+        line-height: 48px;
     }
 
     .addCartBtn a{
